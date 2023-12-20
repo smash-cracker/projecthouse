@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/smash-cracker.github.io/projecthouse/static/css/main.b1e9b3ae.css",
-    "main.js": "/smash-cracker.github.io/projecthouse/static/js/main.fd0f9b8c.js",
-    "static/media/video1.mp4": "/smash-cracker.github.io/projecthouse/static/media/video1.729f42c1b904a07ac58c.mp4",
-    "static/media/video2.mp4": "/smash-cracker.github.io/projecthouse/static/media/video2.d69e4f1cfedf0f39abf6.mp4",
-    "index.html": "/smash-cracker.github.io/projecthouse/index.html",
-    "main.b1e9b3ae.css.map": "/smash-cracker.github.io/projecthouse/static/css/main.b1e9b3ae.css.map",
-    "main.fd0f9b8c.js.map": "/smash-cracker.github.io/projecthouse/static/js/main.fd0f9b8c.js.map"
+    "main.css": "/projecthouse/static/css/main.b1e9b3ae.css",
+    "main.js": "/projecthouse/static/js/main.4c44511e.js",
+    "static/media/video1.mp4": "/projecthouse/static/media/video1.729f42c1b904a07ac58c.mp4",
+    "static/media/video2.mp4": "/projecthouse/static/media/video2.d69e4f1cfedf0f39abf6.mp4",
+    "index.html": "/projecthouse/index.html",
+    "main.b1e9b3ae.css.map": "/projecthouse/static/css/main.b1e9b3ae.css.map",
+    "main.4c44511e.js.map": "/projecthouse/static/js/main.4c44511e.js.map"
   },
   "entrypoints": [
     "static/css/main.b1e9b3ae.css",
-    "static/js/main.fd0f9b8c.js"
+    "static/js/main.4c44511e.js"
   ]
 }
